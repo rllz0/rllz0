@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Razan (rllz0)
+# 👋 Hi, I'm Razan 
 
 💻 Passionate about software development  
 🌱 Currently exploring **React** and **Flutter**  
